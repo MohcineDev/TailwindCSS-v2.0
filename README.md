@@ -1,6 +1,6 @@
 # TailwindCSS-v2.0
 
-[https://tailwindcss.com/docs](Getting started)
+[Getting started](https://tailwindcss.com/docs)
 
 - Start with
 > npm install tailwindcss postcss autoprefixer
