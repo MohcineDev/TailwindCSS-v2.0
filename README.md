@@ -5,5 +5,14 @@
 - Start with
 > npm install tailwindcss postcss autoprefixer
 
-- install VSCode extension
-> Tailwind CSS IntelliSense
+- install Tailwind VSCode extension
+> Tailwind CSS      
+
+- optimizing for production    
+> css config file     
+<pre>
+  purge:{
+    enabled: true,
+    content: ['./index.html'],
+  },
+  <pre>
