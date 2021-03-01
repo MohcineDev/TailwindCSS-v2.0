@@ -18,5 +18,5 @@
     enabled: true,
     content: ['./index.html'],
   },
-<pre>    
+</pre>    
 by default preserveHtmlElements : true    
