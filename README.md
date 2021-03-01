@@ -1,5 +1,8 @@
 # TailwindCSS-v2.0
-
+<div align="center">
+<img src="./images/Tailwindcss.svg"  alt="Tailwindcss" width="50%">  
+</div>
+<br/>
 [Getting started](https://tailwindcss.com/docs)
 
 - Start with
@@ -15,4 +18,5 @@
     enabled: true,
     content: ['./index.html'],
   },
-  <pre>
+<pre>    
+by default preserveHtmlElements : true    
