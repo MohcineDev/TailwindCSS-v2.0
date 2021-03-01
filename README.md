@@ -2,7 +2,8 @@
 <div align="center">
 <img src="./images/Tailwindcss.svg"  alt="Tailwindcss" width="50%">  
 </div>
-<br/>
+<br/>  
+
 [Getting started](https://tailwindcss.com/docs)
 
 - Start with
